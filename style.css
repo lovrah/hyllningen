@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body {
+    font-family: "Nunito" , sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.saira-condensed-thin {
+    font-family: "Nunito";
+    font-weight: 100;
+    font-style: normal;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    margin: 20px 20px;
+    font-size: 30px;
+}
+
+h2 {
+    margin: 20px 20px;
+}
+
+.biography {
+    background-color: rgb(56, 9, 9);
+    margin: 20px 20px;
+
+}
+
+footer {
+    background-color: rgb(235, 180, 30);
+}
+
+footer img {
+    height: 250px;
+    width: 180px;
+    margin: 20px 10px;
+    display: inline-block;
+}
+
+.gallery {
+    margin: 20px 10px;
+   
+}
